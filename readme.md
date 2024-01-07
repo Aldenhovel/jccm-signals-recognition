@@ -25,3 +25,17 @@ The model was introduced in the paper [JCCM: Joint conformer and CNN model for o
 
 An example of scaling preservation through the overlapping radio signals separation in SNR=0dB by using JCCM is shown in this figure.
 
+## Requirements
+
+- Python 3.9
+- torch 1.12.1
+- tqdm 4.66.1
+
+
+
+## References
+
+- [Conformer: Convolution-augmented Transformer for Speech Recognition.](https://github.com/sooftware/conformer)
+
+  
+
