@@ -1,6 +1,8 @@
 # JCCM Signals Recognition
 
-![img_0](./imgs/git_0.png)
+## Poster
+
+![img_0](./imgs/poster.jpg)
 
 ## Model Description
 
@@ -8,9 +10,7 @@ Joint Conformer and CNN model(JCCM) is proposed to separate and recognize the ov
 
 ![img_1](./imgs/git_1.png)
 
-The model was introduced in the paper [JCCM: Joint conformer and CNN model for overlapping radio signals recognition](https://doi.org/10.1049/ell2.13006),  and poster:
-
-![poster_0](./imgs/POSTER-JCCM.svg)
+The model was introduced in the paper [JCCM: Joint conformer and CNN model for overlapping radio signals recognition](https://doi.org/10.1049/ell2.13006) .
 
 ## Results
 
