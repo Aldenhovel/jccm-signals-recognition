@@ -1,5 +1,9 @@
 # JCCM Signals Recognition
 
+>
+>
+>Liang J, Li X, Liang C, et al. JCCM: Joint conformer and CNN model for overlapping radio signals recognition[J]. Electronics Letters, 2023, 59(21): e13006.
+
 ## Poster
 
 ![img_0](./imgs/poster.jpg)
@@ -31,11 +35,9 @@ An example of scaling preservation through the overlapping radio signals separat
 - torch 1.12.1
 - tqdm 4.66.1
 
-
-
 ## References
 
-- [Conformer: Convolution-augmented Transformer for Speech Recognition.](https://github.com/sooftware/conformer)
+1. Gulati A, Qin J, Chiu C C, et al. Conformer: Convolution-augmented transformer for speech recognition[J]. arXiv preprint arXiv:2005.08100, 2020. [Github](https://github.com/sooftware/conformer) 
 
-  
+
 
